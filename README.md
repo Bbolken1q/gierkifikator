@@ -1,4 +1,5 @@
-# Jak zainstalować:
+ # Jak zainstalować:
+
 testowano używając Python 3.14.4
 `pip install requirements.txt`
 po zainstalowaniu:
